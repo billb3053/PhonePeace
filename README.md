@@ -10,4 +10,4 @@
   <li>Open a blank Excel or Google Docs spreadsheet. In the first column put the 10 digit phone number (do not use a '1' in front of the number. In the second column put names. <strong>Do not use numbers or commas in the names field!</strong>. Save the Excel or Google Doc's file with the name <strong>phonebook</strong> on your desktop. Be sure to save it in .CSV format. You should now have a file phonebook.csv on your desktop.</li>
   </ul>
   <ul>
-      <li> To use the software refer to the How to Install PhonePeace Software at www.myphonepeace.com/FAQ website</li>
+      <li> To use the software refer to the ,Strong>How to Install PhonePeace Software,/strong> at www.myphonepeace.com/FAQ</li>
