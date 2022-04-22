@@ -3,6 +3,7 @@
 #### Instructions for use:
 <ul>
   <li>click on the file <em><strong>phonepeace.exe</strong><em>
+    <li>On the right hand side of the screen click the download button</li>
 Use PhonePeacenam to transfer phone numbers from an Excel Spreadsheet into your PhonePeace unit.
 Use PhPReader to transfer phone numbers from your PhonePeace unit to an Excel spreadsheet.
 To Use:
