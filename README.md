@@ -1,5 +1,5 @@
 ### PhonePeace Software
-#### This software is used to transfer phone numbers to and from an Excel spreadsheet and Phonepeace.
+#### This software is used to transfer phone numbers to and from an Excel spreadsheet and PhonePeace.
 #### Instructions for Installation:
 <ul>
   <li>Click on the file <strong>phonepeacenam.exe</strong> (From the README file click on the <strong>Code</strong> button top left to see the <strong>phonepeace.nam file</strong>
