@@ -8,5 +8,5 @@
   <li>Find <strong>phonepeacenam.exe</strong> in the Downloads file on your computer and copy it to your desktop</li>
   <li>Repeat this process for <strong>PhPReader.exe</strong></li>
   <li>Open a blank Excel or Google Docs spreadsheet. In the first column put the 10 digit phone number (do not use a '1' in front of the number. In the second column put names. <strong>Do not use numbers or commas in the names field!</strong>. Save the Excel or Google Doc's file with the name <strong>phonebook</strong> on your desktop. Be sure to save it in .CSV format. You should now have a file phonebook.csv on your desktop.
-    <ul>
+  <li></li>
       <li> To use the software refer to the How to Install Software in the FAQ section of the www.myphonepeace.com website</li>
