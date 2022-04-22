@@ -2,7 +2,7 @@
 #### This software is used to transfer phone numbers to and from an Excel spreadsheet and PhonePeace.
 #### Instructions for Software Installation:
 <ul>
-  <li>From the README file click on the <strong>Code</strong> button top left to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
+  <li>From the README file click on the <strong>PhonePeace</strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
     <li>On the right hand side of the screen click the download button</li>
   <li>You will get a message <em>phonepeacenam.exe is not commonly downloaded and may be dangerous</em> Click on the up arrow and select <strong>keep</strong>. This software has been virus checked by Microsoft Defender, Norton, amd McAfee and is virus free. If you are not comfortable with this please contact the manufacturer 734-822-0950 for a workaround.
   <li>Find <strong>phonepeacenam.exe</strong> in the Downloads file on your computer and copy it to your desktop</li>
