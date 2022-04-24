@@ -2,7 +2,7 @@
 #### This software is used to transfer phone numbers to and from an Excel spreadsheet and PhonePeace.
 #### Step 1: Instructions to Install the PhonePeace Programmer Driver.
 <ul>
-  <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong> CDM212364_Setup.zip</strong/> file. Click on the <strong>CDM212364_Setup.zip</strong> file and on the right hand side click the <strong>Download</strong> button.Click on the file on the lower left of your Windows Desktop screen and then click on <strong>CDM212364_Setup</strong> and follow the installation instructions to install. When done reboot your computer. Check that the driver has been properly installed by searching for Device Manager in Windows and look under COM and LPT ports. You should see a USB adapter installed.as shown below.</li>
+  <li>Connect the red programmer board to your computer with the supplied black cable or supplied adapter and white cable. From the README file click on the <strong>PhonePeace </strong>link above to see the <strong> CDM212364_Setup.zip</strong/> file. Click on <strong>CDM212364_Setup.zip</strong> file and on the right hand side click the <strong>Download</strong> button. Click on the file on the lower left of your Windows Desktop screen and then click on <strong>CDM212364_Setup</strong> and follow the installation instructions. When done reboot your computer. Check that the driver has been properly installed by searching for Device Manager in Windows and look under COM and LPT ports. You should see a USB adapter installed.as shown below.</li>
 </ul>
 <h4>Instructions for Software Installation:</h4>
 <ul>
