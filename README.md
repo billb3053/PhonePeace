@@ -2,7 +2,7 @@
 #### This software is used to transfer phone numbers to and from an Excel spreadsheet and PhonePeace.
 ### Instructions to Install the PhonePeace Programmer Driver.
 <ul>
-  <li>Frome the README file click on the <strong>PhonePeace </strong>link above to see the <strong> CDM1234</strong/> Zip file.</li>
+  <li>Frome the README file click on the <strong>PhonePeace </strong>link above to see the <strong> CDM212364.Setup.zip</strong/> Zip file.</li></ul>
 #### Instructions for Software Installation:
 <ul>
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
