@@ -3,7 +3,7 @@
 #### Instructions to Install the PhonePeace Programmer Driver.
 <ul>
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong> CDM212364.Setup.zip</strong/> zip file.Click on the <strong>CDM212364_Setup.zip</strong> file and on the right hand click the <strong>Download</strong> button.</li>
-</ul>
+
 #### Instructions for Software Installation:
 <ul>
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
