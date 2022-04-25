@@ -7,8 +7,11 @@
 #### Device Manager ![](COMLPT.png)
 
 #### COM & LPT ![](COMLPTFTDI.png)
-<h4>Instructions for Software Installation:</h4>
+<h4>Instructions for Simple Software Installation:</h4>
 <ul>
+  <li>From the README file click on the <stronng>PhonePeace </strong>link above. Click on the file <strong>phonepeace.txt</strong></li>
+  <li>Click on the double squares (copy) command and navigate to your Windows Desktop</li>
+  <li>Right click New->Text Document to save on your Desktop. Click the New Text Document file then click File->Save as type in Phonepeace.bat and then change the Save as type dropdown to All Files as shown.</li>
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
     <li>On the right hand side of the screen click the download button</li>
   <li>You will get a message <em>phonepeacenam.exe is not commonly downloaded and may be dangerous</em> Click on the up arrow and select <strong>keep</strong>. This software has been virus checked by Microsoft Defender, Norton, amd McAfee and is virus free (See Windows Defender and Norton File summary). If you are not comfortable with this please contact the manufacturer 734-822-0950 for a workaround.
