@@ -22,7 +22,11 @@
   <ul>
   <li>Prepare an Excel or Google Doc's spreadsheet with 2 columns as shown (no numbers or commas in the names field). Save this file on your Desktop <strong><phonebook> be sure to save it as a .CSV file.</strong></ul></li>
   
-#### Phonebook Spreadsheet ![](images"/SPREADSHEET.png)  
+#### Phonebook Spreadsheet ![](images"/SPREADSHEET.png) </ul>
+
+#### Step 4: Connect Programmer to PhonePeace
+<ul>
+  <li>PhonePeace can be shipped with two different types of programmers. It is important you identify which programmer your Phonepeace came with.</li>
   
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
     <li>On the right hand side of the screen click the download button</li>
