@@ -6,8 +6,8 @@
 
 #### Device Manager ![](images"/COMLPT1.png)
 
-#### COM & LPT ![](images"/COMLPTFTDI1.png)
-#### 2: Instructions for Simple Software Installation:
+#### USB Serial Port ![](images"/COMLPTFTDI1.png)
+#### Step 2: Instructions for Simple Software Installation:
 <ul>
   <li>From the README file click on the <strong> PhonePeace</strong> link above. Click on the file <strong>phonepeace.txt</strong></li>
   <li>Click on the double squares (copy) command and navigate to your Windows Desktop</li>
@@ -16,7 +16,13 @@
 #### File Type  ![](images"/ALLFILES.png) 
 <ul>
   <li>Repeat the process for the file <strong> PhPrdr.txt </strong></li>
+  <li>You should now have two files on your desktop-<strong>phonepeace.bat and PhPrdr.bat </strong>. You can delete the text files you created.</li></ul>
   
+#### Step 3: Set Up an Excel or Google Phonebook File:  
+  <ul>
+  <li>Prepare an Excel or Google Doc's spreadsheet with 2 columns as shown (no numbers or commas in the names field). Save this file on your Desktop saving at as <strong><phonebook> be sure to save it as a .CSV file.</strong></ul></li>
+  
+#### Phonebook Spreadsheet ![](images"/SPREADSHEET.png)  
   
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
     <li>On the right hand side of the screen click the download button</li>
