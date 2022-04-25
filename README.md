@@ -27,6 +27,8 @@
 #### Step 4: Connect Programmer to PhonePeace
 <ul>
   <li>PhonePeace can be shipped with two different types of programmers. It is important you identify which programmer your Phonepeace came with.</li>
+    
+#### Programmer A ![](images"/FTDIUP.png  
   
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
     <li>On the right hand side of the screen click the download button</li>
