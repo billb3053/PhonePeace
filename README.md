@@ -20,7 +20,7 @@
   
 #### Step 3: Set Up an Excel or Google Phonebook File:  
   <ul>
-  <li>Prepare an Excel or Google Doc's spreadsheet with 2 columns as shown (no numbers or commas in the names field). Save this file on your Desktop saving at as <strong><phonebook> be sure to save it as a .CSV file.</strong></ul></li>
+  <li>Prepare an Excel or Google Doc's spreadsheet with 2 columns as shown (no numbers or commas in the names field). Save this file on your Desktop <strong><phonebook> be sure to save it as a .CSV file.</strong></ul></li>
   
 #### Phonebook Spreadsheet ![](images"/SPREADSHEET.png)  
   
