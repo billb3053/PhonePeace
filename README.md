@@ -6,7 +6,7 @@
 
 #### Device Manager ![](COMLPT1.png)
 
-#### COM & LPT ![](COMLPTFTDI.png)
+#### COM & LPT ![](COMLPTFTDI1.png)
 <h4>Step 2: Instructions for Simple Software Installation:</h4>
 <ul>
   <li>From the README file click on the <strong> PhonePeace</strong> link above. Click on the file <strong>phonepeace.txt</strong></li>
