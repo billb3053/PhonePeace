@@ -9,7 +9,7 @@
 #### COM & LPT ![](COMLPTFTDI.png)
 <h4>Instructions for Simple Software Installation:</h4>
 <ul>
-  <li>From the README file click on the <strong> PhonePeace</strong>link above. Click on the file <strong>phonepeace.txt</strong></li>
+  <li>From the README file click on the <strong> PhonePeace</strong> link above. Click on the file <strong>phonepeace.txt</strong></li>
   <li>Click on the double squares (copy) command and navigate to your Windows Desktop</li>
   <li>Right click New->Text Document to save on your Desktop. Click the New Text Document file then click File->Save as type in Phonepeace.bat and then change the Save as type dropdown to All Files as shown.</li>
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
