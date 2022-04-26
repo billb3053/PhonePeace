@@ -28,9 +28,8 @@
 <ul>
   <li>PhonePeace can be shipped with two different types of programmers. It is important you identify which programmer your Phonepeace came with.</li>
     
-#### Programmer A ![](images"/FTDIUP.png) 
-  
- #### Programmer B ![](images"/FTDIDOWN.png) 
+#### Programmer A ![](images"/FTDIUP.png) Programmer B ![](images"/FTDIDOWN.png)
+    
   <li>If your PhonePeace came with <strong>Programmer A </strong> plug it into PhonePeace as shown in the picture below with the <strong>Black Component Side facing up.</strong> If your PhonePeace came with <strong> Programmer B plug the programmer in with the Black Component Side facing Down!! </Strong></li>
   <li>Plug the black cable (or white cable with adapter) into one end of the programmer and plug the other end into your computer</li>
   
