@@ -7,7 +7,7 @@
 #### Device Manager Screen ![](images"/COMLPT1.png)
 
 #### Click on USB Serial Port from above ![](images"/COMLPTFTDI1.png)
-#### Step 2: Instructions for Simple Software Installation: (More experienced users may want to install the Advanced Software shown below)
+#### Step 2: Instructions for Simple Software Installation: (More advanced users may want to install the Advanced Software shown at the end)
 <ul>
   <li>From the README file click on the <strong> PhonePeace</strong> link above. Click on the file <strong>phonepeace.zip</strong></li>
   <li>Click on the download command and click to open the downloaded <strong>phonepeace.zip file </strong></li>
@@ -64,10 +64,10 @@
   <li>You will get a message <em>phonepeacenam.exe is not commonly downloaded and may be dangerous</em> Click on the up arrow and select <strong>keep</strong>. This software has been virus checked by Microsoft Defender, Norton, amd McAfee and is virus free (See Windows Defender and Norton File summary). If you are not comfortable with this <strong>use the Step 2 Instructions for Simple Software Install</strong></li>
   <li>Find <strong>phonepeacenam.exe</strong> in the Downloads file on your computer and copy it to your desktop</li>
   <li>Repeat this process for <strong>PhPReader.exe</strong></li>
-  <li>Open a blank Excel or Google Docs spreadsheet and follow directions in <strong>Step 3 Above </strong>.  <strong>Do not use numbers or commas in the names field!</strong>. </li>
-  <li>You should now have 2 files on your Desktop <strong>phonepeacenam.exe and PhPReader.exe</strong><li>
+  <li>Open a blank Excel or Google Docs spreadsheet. Put the 10 digit phone number in column A and the names in column B (as in <strong>Step 3 Above </strong>).  <strong>Do not use numbers or commas in the names field!</strong>. Save the Excel file as <strong>phonebook and save it as a .CSV file on your Desktop</strong></li>
+  <li>You should now have 3 files on your Desktop <strong>phonepeacenam.exe PhPReader.exe and phonebook.csv</strong></li>
   <li>Connect the programmer to Phonepeace as in Step 4 above.</li>
   <li>Click on the <strong>phonepeacenam.exe icon</strong> on your Desktop. You will get a message to connect the programmer to PhonePeace and press enter. When you press enter you will see a list of names and numbers on the black screen. <strong>Be sure to close the terminal screen when done. </strong></li>
-  <li>To read the data in PhonePeace Memory click the <strong> PhPreader.exe icon </strong> on your Desktop. You will be asked to enter 1 for number or 2 for numbers and names. Always select 1. You will see a list of numbers and names and an Excel spreadsheet with all the numbers in memeory<strong>phpMEM.xls</strong> will be created on your Desktop. </li>
+  <li>To read the data in PhonePeace Memory click the <strong> PhPreader.exe icon </strong> on your Desktop. You will be asked to enter 1 for number or 2 for numbers and names. Always select 1. You will see a list of numbers and names and an Excel spreadsheet with all the numbers in memory<strong> PhpMEM.xls</strong> will be created on your Desktop. </li>
   <li>This completes advanced programming</li>
      
