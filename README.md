@@ -36,10 +36,10 @@
   
  #### Plug PhonePeace Programmer into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
   
-#### Step5: Programming PhonePeace 
+#### Step 5: Programming PhonePeace 
   <ul>
   <li>Click on the <strong>PhonePeace.bat </strong> icon on the desktop. The program will run automatically, don't press any keys. The lights on the programmer will flash. You will see a screen like below with the numbers and names displayed.
-    <strong> Be sure to press Enter when done </strong>. Press the list key and Review key on PhonePeace to confirm programming. Programming is now complete. If you do not see this screen or the screen flashes on and disappears, see the troubleshooting instructions. </li>
+    <strong> Be sure to press Enter when done. </strong> Press the <strong>List </strong> key and <strong>Rev </strong> key on PhonePeace to confirm programming. Programming is now complete. If you do not see this screen or the screen flashes on and disappears, see the troubleshooting instructions. </li>
     
 #### PhonePeace Screen During Programming ![](images"/PHONEPEACESCREEN.png) 
       
