@@ -50,20 +50,21 @@
    
  #### Troubleshooting: If you click on the <strong>phonepeace.bat</strong> icon and nothing happens or the display appears and disappears:      
    <ul>
-    <li>Make sure the cables from the computer to the programmer are tightly prugged in and the programmer is plugged into PhonePeace and the computer.</li>
-     <li>Make sure the driver is installed by rechecking <strong>Step 1 above</li>
-       <li> Make sure the <PhonePeace.bat PhPRdr.bat and phonebook.csv files are all on the Desktop</strong>
-     <li>Make sure the phonepeace excel file is saved as a <strong>.CSV file </strong><li>
-     <li>If you see "Unable to Open COM Port" and you have verified the driver install, reboot your computer</li>
-     <li>If none of these suggestions works please email <strong>sales@myphonepeace.com or call tech support at 734-822-0950 </strong><li>
+    <li>Make sure the cables from the computer to the programmer are tightly plugged in and the programmer is plugged into PhonePeace and the computer. If you have <strong>programmer A make sure it is connected with the black components side up </strong> and if you have <strong> programmer B make sure it is connected with black component side down </strong> as in Step 4 Above</li>
+     <li>Make sure the driver is installed by rechecking <strong>Step 1 above</strong></li>
+    <li> Make sure the <strong>PhonePeace.bat PhPRdr.bat and phonebook.csv files </strong> are all on your <strong>Desktop</strong></li>
+    <li>Make sure the phonebook excel file is saved as a <strong>.CSV file </strong></li>
+    <li>If you see "Unable to Open COM Port" and you have verified the driver install, reboot your computer</li>
+    <li>Install the more advanced software shown below</li>
+    <li>If none of these suggestions works please email <strong>sales@myphonepeace.com or call tech support at 734-822-0950 </strong></li></ul>
   
-  
+  #### Installing Advanced Software. This software outputs the PhonePeace memory contents directly into an Excel Spreadsheet
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
     <li>On the right hand side of the screen click the download button</li>
   <li>You will get a message <em>phonepeacenam.exe is not commonly downloaded and may be dangerous</em> Click on the up arrow and select <strong>keep</strong>. This software has been virus checked by Microsoft Defender, Norton, amd McAfee and is virus free (See Windows Defender and Norton File summary). If you are not comfortable with this please contact the manufacturer 734-822-0950 for a workaround.
   <li>Find <strong>phonepeacenam.exe</strong> in the Downloads file on your computer and copy it to your desktop</li>
   <li>Repeat this process for <strong>PhPReader.exe</strong></li>
-  <li>Open a blank Excel or Google Docs spreadsheet. In the first column put the 10 digit phone number (do not use a '1' in front of the number. In the second column put names. <strong>Do not use numbers or commas in the names field!</strong>. Save the Excel or Google Doc's file with the name <strong>phonebook</strong> on your desktop. Be sure to save it in .CSV format. You should now have a file phonebook.csv on your desktop.</li>
-  </ul>
-  <ul>
-      <li> For more information and how to use the software refer to the <Strong>How to Install PhonePeace Software</strong> at www.myphonepeace.com/FAQ</li>
+  <li>Open a blank Excel or Google Docs spreadsheet and follow directions in <strong>Step 3 Above </strong>.  <strong>Do not use numbers or commas in the names field!</strong>. </li>
+  <li>You should now have 2 files on your Desktop <strong>phonepeacenam.exe and PhPReader.exe</strong><li>
+ 
+     
