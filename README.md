@@ -40,6 +40,8 @@
   <ul>
   <li>Click on the <strong>PhonePeace.bat </strong> icon on the desktop. The program will run automatically, don't press any keys. The lights on the programmer will flash. You will see a screen like below.
     <strong> Be sure to press Enter when done </strong>. Press the list key and Review key on PhonePeace to confirm programming. Programming is now complete. If you do not see this screen or the screen flashes on and disappears, see the troubleshooting instructions. </li>
+    
+#### PhonePeace Screen During Programming ![](images"/PROGRAMMERPLUGIN.png) 
       
   
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
