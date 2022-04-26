@@ -36,13 +36,27 @@
   
  #### Plug PhonePeace Programmer into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
   
-#### Step 5: Programming PhonePeace 
+#### Step 5: Programming PhonePeace and Reading PhonePeace Memory
   <ul>
   <li>Click on the <strong>PhonePeace.bat </strong> icon on the desktop. The program will run automatically, don't press any keys. The lights on the programmer will flash. You will see a screen like below with the numbers and names displayed.
-    <strong> Be sure to press Enter when done. </strong> Press the <strong>List </strong> key and <strong>Rev </strong> key on PhonePeace to confirm programming. Programming is now complete. If you do not see this screen or the screen flashes on and disappears, see the troubleshooting instructions. </li>
+    <strong> Be sure to press Enter when done. </strong> Press the <strong>List </strong> key and <strong>Rev </strong> key on PhonePeace to confirm programming. Programming is now complete. If you do not see this screen or the screen flashes on and disappears, see the troubleshooting instructions. </li></ul>
     
-#### PhonePeace Screen During Programming ![](images"/PHONEPEACESCREEN.png) 
-      
+#### PhonePeace Screen During Programming ![](images"/PHONEPEACESCREEN.png)
+   <ul> 
+    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file</strong> (don't press any buttons. When the PhonePeace display turns off, wait a few seconts and then press and hold the <strong>Prog </strong> button on the Unit for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
+     
+ #### PHPMEM.txt file That Will Be on Your Desktop  ![](images"/READEROUT.png)
+  
+   
+ #### Troubleshooting: If you click on the <strong>phonepeace.bat</strong> icon and nothing happens or the display appears and disappears:      
+   <ul>
+    <li>Make sure the cables from the computer to the programmer are tightly prugged in and the programmer is plugged into PhonePeace and the computer.</li>
+     <li>Make sure the driver is installed by rechecking <strong>Step 1 above</li>
+       <li> Make sure the <PhonePeace.bat PhPRdr.bat and phonebook.csv files are all on the Desktop</strong>
+     <li>Make sure the phonepeace excel file is saved as a <strong>.CSV file </strong><li>
+     <li>If you see "Unable to Open COM Port" and you have verified the driver install, reboot your computer</li>
+     <li>If none of these suggestions works please email <strong>sales@myphonepeace.com or call tech support at 734-822-0950 </strong><li>
+  
   
   <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeace.nam file</strong> Click on the file <strong>phonepeacenam.exe</strong></li>
     <li>On the right hand side of the screen click the download button</li>
