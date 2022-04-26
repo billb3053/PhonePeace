@@ -2,18 +2,18 @@
 #### This software is used to transfer phone numbers to and from an Excel spreadsheet and PhonePeace. 
 #### Step 1: Instructions to Install the PhonePeace Programmer Driver.
 <ul>
-  <li>Connect the red programmer board to your computer with the supplied black cable or supplied adapter and white cable. Click on the <strong>PhonePeace </strong>link above and find the <strong> CDM212364_Setup.zip</strong/> file. Click on <strong>CDM212364_Setup.zip </strong> file. On the right hand side click the <strong>Download</strong> button. Click on the file on the lower left of your Windows Desktop screen, then click on <strong>CDM212364_Setup</strong> and follow the installation instructions. When done reboot your computer. To check the driver has been properly installed, search for Device Manager in Windows lower left search bar, click on Device Manager and look under Ports (COM and LPT). You should see a USB Serial Port installed as shown (Your COM port number may be different). If you click on USB Serial Port you should see the screen showing FTDI This Device is Working Properly.</li>
+  <li>Connect the red programmer (see pictures of programmer below) to your computer with the supplied black cable or supplied adapter and white cable. Click on the <strong>PhonePeace </strong>link above and find the <strong> CDM212364_Setup.zip</strong/> file. Click on <strong>CDM212364_Setup.zip </strong> file. On the right hand side click the <strong>Download</strong> button. Click on the file on the lower left of your Windows Desktop screen, then click on <strong>CDM212364_Setup</strong> and follow the installation instructions. When done reboot your computer. To check the driver has been properly installed, search for Device Manager in Windows lower left search bar, click on Device Manager and look under Ports (COM and LPT). You should see a USB Serial Port installed as shown (Your COM port number may be different). If you click on USB Serial Port you should see the screen showing FTDI This Device is Working Properly.</li>
 
-#### Device Manager ![](images"/COMLPT1.png)
+#### Device Manager Screen ![](images"/COMLPT1.png)
 
-#### USB Serial Port ![](images"/COMLPTFTDI1.png)
+#### Click on USB Serial Port from above ![](images"/COMLPTFTDI1.png)
 #### Step 2: Instructions for Simple Software Installation:
 <ul>
-  <li>From the README file click on the <strong> PhonePeace</strong> link above. Click on the file <strong>phonepeace.txt</strong></li>
-  <li>Click on the double squares (copy) command and navigate to your Windows Desktop</li>
-  <li>Right click New->Text Document to save on your Desktop. Click the New Text Document file then click File->Save as <strong>Phonepeace.bat</strong> and then change the Save as type dropdown to <strong> All Files </strong>as shown.</ul></li>
+  <li>From the README file click on the <strong> PhonePeace</strong> link above. Click on the file <strong>phonepeace.zip</strong></li>
+  <li>Click on the download command and click to open the downloaded <strong>phonepeace.zip file </strong></li>
+  <li>There are two text Documents in the zip file. Click the file <strong>phonepeace.txt </strong> which will open in Notepad. Click File->Save as and navigate to your <strong>Desktop </strong>. Change the file name to <strong>Phonepeace.bat</strong> and then change the Save as type dropdown to <strong> All Files </strong> as shown below. Be sure the file is on your Desktop. file</ul></li>
   
-#### File Type  ![](images"/ALLFILES.png) 
+ #### File Name and File Type  ![](images"/ALLFILES.png) 
 <ul>
   <li>Repeat the process for the file <strong> PhPrdr.txt </strong></li>
   <li>You should now have two files on your desktop-<strong>phonepeace.bat and PhPrdr.bat </strong>. You can delete the text files you created.</li></ul>
@@ -31,12 +31,12 @@
 #### Programmer A ![](images"/FTDIUP.png) 
   
  #### Programmer B ![](images"/FTDIDOWN.png) 
-  <li>If you have <strong>Programmer A </strong> plug it into PhonePeace as shown in the picture below with the <strong>Black Component Side facing up.</strong> If you have<strong> Programmer B plug the programmer in with the Black Comonent Side facing Down. </Strong></li>
-  <li>Plug the adapter or black cable into one end of the programmer and plug the other end into your computer</li>
+  <li>If your PhonePeace came with <strong>Programmer A </strong> plug it into PhonePeace as shown in the picture below with the <strong>Black Component Side facing up.</strong> If your PhonePeace came with <strong> Programmer B plug the programmer in with the Black Component Side facing Down!! </Strong></li>
+  <li>Plug the black cable (or white cable with adapter) into one end of the programmer and plug the other end into your computer</li>
   
- #### Plug PhonePeace Programmer into PhonePeace
+ #### Plug PhonePeace Programmer into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
   
-#### Step5: Programming PhonePeace
+#### Step5: Programming PhonePeace 
   <ul>
   <li>Click on the <strong>PhonePeace.bat </strong> icon on the desktop. The program will run automatically, don't press any keys. The lights on the programmer will flash. You will see a screen like below.
     <strong> Be sure to press Enter when done </strong>. Press the list key and Review key on PhonePeace to confirm programming. Programming is now complete. If you do not see this screen or the screen flashes on and disappears, see the troubleshooting instructions. </li>
