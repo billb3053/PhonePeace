@@ -50,7 +50,7 @@
    
  #### Troubleshooting: If you click on the <strong>phonepeace.bat</strong> icon and nothing happens or the display appears and disappears:      
    <ul>
-    <li>Make sure the cables from the computer to the programmer are tightly plugged in and the programmer is plugged into PhonePeace and the computer. If you have <strong>programmer A make sure it is connected with the black components side up </strong> and if you have <strong> programmer B make sure it is connected with black component side down </strong> as in Step 4 Above</li>
+    <li>Make sure the cables from the computer to the programmer are tightly plugged in and the programmer is plugged into PhonePeace and the computer. If you have <strong>programmer A make sure it is connected with the black components side up </strong> and if you have <strong> programmer B make sure it is connected with black component side down </strong> as in <strong>Step 4 Above</li></strong>
      <li>Make sure the driver is installed by rechecking <strong>Step 1 above</strong></li>
     <li> Make sure the <strong>PhonePeace.bat PhPRdr.bat and phonebook.csv files </strong> are all on your <strong>Desktop</strong></li>
     <li>Make sure the phonebook excel file is saved as a <strong>.CSV file </strong></li>
