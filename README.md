@@ -1,4 +1,4 @@
-### PhonePeace Software
+### PhonePeace Software ![](images"/LOGOSMALL.JPG)
 #### This software is used to transfer phone numbers to and from an Excel spreadsheet and PhonePeace. 
 #### Step 1: Instructions to Install the PhonePeace Programmer Driver.
 <ul>
