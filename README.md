@@ -67,7 +67,7 @@
    <li>Open a blank Excel or Google Docs spreadsheet. Put the 10 digit phone number in column A and the names in column B (as in <strong>Step 3 Above). </strong>) <strong>Do not use numbers or commas in the names field!!</strong> Save the Excel file as <strong>phonebook and save it as a .CSV file on your Desktop</strong></li>
   <li>You should now have 3 files on your Desktop <strong>phonepeacenam.exe PhPReader.exe and phonebook.csv</strong></li>
   <li>Connect the programmer to Phonepeace as in <strong>Step 4 above. </strong></li>
-  <li>Click on the <strong>phonepeacenam.exe icon</strong> on your Desktop. You will get a message "Connect PhonePeace programming adapter and press enter". When you press enter you will see a list of names and numbers on the black terminal screen. <strong>Be sure to close the terminal screen when done. </strong></li>
+  <li>Click on the <strong>phonepeacenam.exe icon</strong> on your Desktop. It may take a few seconds until you see a message "Connect PhonePeace programming adapter and press enter". When you press enter you will see a list of names and numbers on the black terminal screen. <strong>Be sure to close the terminal screen when done. </strong></li>
   <li>To read the data in PhonePeace Memory click the <strong> PhPreader.exe icon </strong> on your Desktop. You will be asked to enter 1 for numbers or 2 for numbers and names. Always select 1. You will see a message "When display goes blank press Prog key on Phonepeace.." Press the <strong>Prog</strong> key to see a list of numbers and names and an Excel spreadsheet with all the numbers in memory<strong> PhPMeM.xls</strong> will be created on your Desktop. </li>
   <li>This completes advanced programming</li>
      
