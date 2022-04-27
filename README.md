@@ -9,9 +9,9 @@
 #### Click on USB Serial Port from above ![](images"/COMLPTFTDI1.png)
 #### Step 2: Instructions for Simple Software Installation: (More advanced users may want to install the Advanced Software shown at the end)
 <ul>
-  <li>From the README file click on the <strong> PhonePeace</strong> link above. Click on the file <strong>phonepeace.zip</strong></li>
+  <li>Click on the file <strong>phonepeace.zip above</strong></li>
   <li>Click on the download command and click to open the downloaded <strong>phonepeace.zip file </strong></li>
-  <li>There are two text Documents in the zip file. Click the file <strong>phonepeace.txt </strong> which will open in Notepad. Click File->Save as and navigate to your <strong>Desktop </strong>. Change the file name to <strong>Phonepeace.bat</strong> and then change the Save as type dropdown to <strong> All Files </strong> as shown below. Be sure the file is on your Desktop. </ul></li>
+  <li>There are two text Documents in the zip file. Click the file <strong>phonepeace.txt </strong> which will open in Notepad. Click File->Save as and navigate to your <strong>Desktop </strong>. Change the file name to <strong>phonepeace.bat</strong> and then change the Save as type dropdown to <strong> All Files </strong> as shown below. Then click <strong>Save</strong>. Be sure the saved file <strong>phonepeace.bat </strong>ile is on your Desktop. </ul></li>
   
  #### File Name and File Type  ![](images"/ALLFILES.png) 
 <ul>
@@ -43,7 +43,8 @@
     
 #### PhonePeace Screen During Programming ![](images"/PHONEPEACESCREEN.png)
    <ul> 
-    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file. </strong> The program will run automatically, don't press any keys. Wait a few seconds for the PhonePeace display to turn off, then press and hold the <strong>Prog </strong> button on the PhonePeace for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
+    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file. </strong> You wil see a message "After display goes bland press Prog on PhonePeace". Wait a few seconds for the PhonePeace display to on and then turn off. P
+      ress and hold the <strong>Prog </strong> button on the PhonePeace for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
      
  #### PHPMEM.txt file That Will Be on Your Desktop  ![](images"/READEROUT.png)
   
