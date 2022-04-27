@@ -20,7 +20,7 @@
   
 #### Step 3: Set Up an Excel or Google Phonebook File:  
   <ul>
-  <li>Prepare an Excel or Google Doc's spreadsheet with 2 columns as shown (no numbers or commas in the names field). Save this file on your Desktop <strong><phonebook> be sure to save it as a .CSV file.</strong></ul></li>
+  <li>Prepare an Excel or Google Doc's spreadsheet with 2 columns as shown (no numbers or commas in the names field). Save this file on your Desktop with the file name <strong>phonebook</strong> be sure to save it as <strong> a .CSV file.</strong></ul></li>
   
 #### Phonebook Spreadsheet ![](images"/SPREADSHEET.png) 
 
@@ -43,7 +43,7 @@
     
 #### PhonePeace Screen During Programming ![](images"/PHONEPEACESCREEN.png)
    <ul> 
-    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file</strong> (don't press any buttons. When the PhonePeace display turns off, wait a few seconts and then press and hold the <strong>Prog </strong> button on the Unit for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
+    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file. </strong> The program will run automatically, don't press any keys. Wait a few seconds for the PhonePeace display to turn off, then press and hold the <strong>Prog </strong> button on the PhonePeace for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
      
  #### PHPMEM.txt file That Will Be on Your Desktop  ![](images"/READEROUT.png)
   
