@@ -60,7 +60,7 @@
     <li>If none of these suggestions works please email <strong>sales@myphonepeace.com or call tech support at 734-822-0950 </strong></li></ul>
   
   #### Installing Advanced Software. This software outputs the PhonePeace memory contents directly into an Excel Spreadsheet
-  <li>From the README file click on the <strong>PhonePeace </strong>link above to see the <strong>phonepeacenam.zip file</strong> Click on the file <strong>phonepeacenam.zip</strong></li>
+  <li>Click on the<strong>phonepeacenam.zip file above</strong></li>
     <li>On the right hand side of the screen click the download button</li>
   <li>You will get a message <em>phonepeacenam.zip is not commonly downloaded and may be dangerous</em> Click on the up arrow and select <strong>keep</strong>. This software has been virus checked by Microsoft Defender, Norton, amd McAfee and is virus free (See Windows Defender and Norton File summary). If you are not comfortable with this <strong>use the Step 2 Instructions for Simple Software Install</strong></li>
   <li>Click to open <strong>phonepeacenam.zip</strong> and copy the two files <strong>phonepeacenam.exe and PhPReader.exe to your desktop</li></strong>
