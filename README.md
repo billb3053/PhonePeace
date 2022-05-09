@@ -36,7 +36,7 @@
   
  #### Plug PhonePeace Programmer A into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
   
- #### Plug PhonePeace Programmer B into PhonePeace ![](images"/PROGRAMMERBYPUP.jpg) 
+ #### Plug PhonePeace Programmer B into PhonePeace ![](images"/PROGRAMMERBYPUP.png) 
   
 #### Step 5: Programming PhonePeace and Reading PhonePeace Memory
   <ul>
