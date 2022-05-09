@@ -28,10 +28,11 @@
 <ul>
   <li>PhonePeace can be shipped with two different types of programmers. It is important you identify which programmer your Phonepeace came with.</li>
     
-#### Programmer A ![](images"/FTDIUPSMALL.png) Programmer B ![](images"/FTDIDOWNSMALL1.png) Adapter ![](images"/ADAPTER1.png)
+#### Programmer A ![](images"/FTDIUPSMALL.png) Programmer B ![](images"/FTDIDOWNSMALL1.png) 
+  #### Adapter ![](images"/ADAPTER1.png)
 
     
-  <li>If your PhonePeace came with <strong>Programmer A </strong> plug it into PhonePeace as shown in the picture below with the <strong>Black Component Side facing up.</strong> If your PhonePeace came with <strong> Programmer B plug the programmer in with the Black Component Side facing Down!! </Strong></li>
+  <li>If your PhonePeace came with <strong>Programmer A </strong> plug it into PhonePeace as shown in the picture below with the <strong>Black Component Side facing up.</strong> If your PhonePeace came with <strong> Programmer B plug the programmer in with the Black Component Side facing Down and YP-05 facing up </Strong>shown below.</li>
   <li>Plug the black cable (or white cable with adapter) into one end of the programmer and plug the other end into your computer</li>
   
  #### Plug PhonePeace Programmer A into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
@@ -45,7 +46,7 @@
     
 #### PhonePeace Screen During Programming ![](images"/PHONEPEACESCREEN.png)
    <ul> 
-    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file. </strong> You wil see a message "After display goes bland press Prog on PhonePeace". Wait a few seconds for the PhonePeace display to on and then turn off. P
+    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file. </strong> You wil see a message "After display goes blank press Prog on PhonePeace". Wait a few seconds for the PhonePeace display to on and then turn off. P
       ress and hold the <strong>Prog </strong> button on the PhonePeace for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
      
  #### PHPMEM.txt file That Will Be on Your Desktop  ![](images"/READEROUT.png)
