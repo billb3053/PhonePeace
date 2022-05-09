@@ -36,6 +36,8 @@
   
  #### Plug PhonePeace Programmer A into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
   
+ #### Plug PhonePeace Programmer B into PhonePeace ![](images"/PROGRAMMERB.png) 
+  
 #### Step 5: Programming PhonePeace and Reading PhonePeace Memory
   <ul>
   <li>Click on the <strong>PhonePeace.bat </strong> icon on the desktop. The program will run automatically, don't press any keys. The lights on the programmer will flash. You will see a screen like below with the numbers and names displayed.
