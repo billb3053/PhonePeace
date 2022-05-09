@@ -34,7 +34,7 @@
   <li>If your PhonePeace came with <strong>Programmer A </strong> plug it into PhonePeace as shown in the picture below with the <strong>Black Component Side facing up.</strong> If your PhonePeace came with <strong> Programmer B plug the programmer in with the Black Component Side facing Down!! </Strong></li>
   <li>Plug the black cable (or white cable with adapter) into one end of the programmer and plug the other end into your computer</li>
   
- #### Plug PhonePeace Programmer into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
+ #### Plug PhonePeace Programmer A into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
   
 #### Step 5: Programming PhonePeace and Reading PhonePeace Memory
   <ul>
