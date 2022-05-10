@@ -16,7 +16,7 @@
  #### File Name and File Type  ![](images"/ALLFILES.png) 
 <ul>
   <li>Repeat the process for the file <strong> PhPrdr.txt </strong></li>
-  <li>You should now have two files on your desktop-<strong>phonepeace.bat and PhPrdr.bat </strong>. You can delete the text files you created.</li></ul>
+  <li>You should now have two files on your desktop-<strong>phonepeace.bat and PhPrdr.bat </strong>.</li></ul>
   
 #### Step 3: Set Up an Excel or Google Phonebook File:  
   <ul>
@@ -26,7 +26,7 @@
 
 #### Step 4: Connect Programmer to PhonePeace
 <ul>
-  <li>PhonePeace can be shipped with two different types of programmers. It is important you identify which programmer your Phonepeace came with.</li>
+  <li>PhonePeace can be shipped with two different types of programmers. It is important you identify which programmer your PhonePeace came with.</li>
     
 #### Programmer A ![](images"/FTDIUPSMALL.png) Programmer B ![](images"/FTDIDOWNSMALL1.png) 
   #### Adapter ![](images"/ADAPTER1.png)
