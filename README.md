@@ -41,20 +41,20 @@
   
 #### Step 5: Programming PhonePeace and Reading PhonePeace Memory
   <ul>
-  <li>Click on the <strong>PhonePeace.bat </strong> icon on the desktop. The program will run automatically, don't press any keys. The lights on the programmer will flash. You will see a screen like below with the numbers and names displayed.
+  <li>Click on the <strong>PhonePeace.bat </strong> icon on the desktop. The program will run automatically, don't press any keys. The lights on the programmer will flash. (If your PhonePeace has Programmer B, turn PhonePeace upside down to see the lights flash during programming). You will see a screen like below with the numbers and names displayed.
     <strong> Be sure to press Enter when done. </strong> Press the <strong>List </strong> key and <strong>Rev </strong> key on PhonePeace to confirm programming. Programming is now complete. If you do not see this screen or the screen flashes on and disappears, see the troubleshooting instructions. </li></ul>
     
 #### PhonePeace Screen During Programming ![](images"/PHONEPEACESCREEN.png)
    <ul> 
-    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file. </strong> You wil see a message "After display goes blank press Prog on PhonePeace". Wait a few seconds for the PhonePeace display to on and then turn off. P
-      ress and hold the <strong>Prog </strong> button on the PhonePeace for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
+    <li>To read data from the PhonePeace memory click the <strong>PhPrdr.bat file. </strong> You wil see a message "After display goes blank press Prog on PhonePeace". Wait a few seconds for the PhonePeace display to turn on and then turn off. 
+      Press and hold the <strong>Prog </strong> button on the PhonePeace for a few seconds. You will see a file PhPMEM.txt show up on your desktop with all the numbers in memory as shown below. If you want to <strong> erase the memory, press and hold the Prog key for 7 seconds until you see CLEARING on the display</strong></li></ul>
      
  #### PHPMEM.txt file That Will Be on Your Desktop  ![](images"/READEROUT.png)
   
    
  #### Troubleshooting: If you click on the <strong>phonepeace.bat</strong> icon and nothing happens or the display appears and disappears:      
    <ul>
-    <li>Make sure the cables from the computer to the programmer are tightly plugged in and the programmer is plugged into PhonePeace and the computer. If you have <strong>programmer A make sure it is connected with the black components side up </strong> and if you have <strong> programmer B make sure it is connected with black component side down </strong> as in <strong>Step 4 Above</li></strong>
+    <li>Make sure the cables from the computer to the programmer are tightly plugged in and the programmer is plugged into PhonePeace with all pins engaged and the other end plugged into the computer. If you have <strong>programmer A make sure it is connected with the black components side up </strong> and if you have <strong> programmer B make sure it is connected with YP-05 up and black component side down </strong> as in <strong>Step 4 Above</li></strong>
      <li>Make sure the driver is installed by rechecking <strong>Step 1 above</strong></li>
     <li> Make sure the <strong>PhonePeace.bat PhPRdr.bat and phonebook.csv files </strong> are all on your <strong>Desktop</strong></li>
     <li>Make sure the phonebook excel file is saved as a <strong>.CSV file </strong></li>
