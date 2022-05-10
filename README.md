@@ -11,7 +11,7 @@
 <ul>
   <li>Click on the file <strong>phonepeace.zip above</strong></li>
   <li>Click on the download command and click to open the downloaded <strong>phonepeace.zip file </strong></li>
-  <li>There are two text Documents in the zip file. Click the file <strong>phonepeace.txt </strong> which will open in Notepad. Click File->Save as and navigate to your <strong>Desktop </strong>. Change the file name to <strong>phonepeace.bat</strong> and then change the Save as type dropdown to <strong> All Files </strong> as shown below. Then click <strong>Save</strong>. Be sure the saved file <strong>phonepeace.bat </strong>ile is on your Desktop. </ul></li>
+  <li>There are two text Documents in the zip file. Click the file <strong>phonepeace.txt </strong> which will open in Notepad. Click File->Save as and navigate to your <strong>Desktop </strong>. Change the file name to <strong>phonepeace.bat</strong> and then change the Save as type dropdown to <strong> All Files </strong> as shown below. Then click <strong>Save</strong>. Be sure the saved file <strong>phonepeace.bat </strong> is on your Desktop. </ul></li>
   
  #### File Name and File Type  ![](images"/ALLFILES.png) 
 <ul>
