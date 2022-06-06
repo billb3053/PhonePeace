@@ -28,16 +28,16 @@
 <ul>
   <li>PhonePeace can be shipped with any of 3 different types of programmers. It is important you identify which programmer your PhonePeace came with.</li>
     
-#### Programmer A ![](images"/FTDIUPSMALL.png) Programmer B ![](images"/FTDIDOWNSMALL1.png) 
-  #### Adapter ![](images"/ADAPTER1.png)
+#### Programmers  ![](images"/THREEADAPTERS.jpg) 
+  
 
     
-  <li>If your PhonePeace came with <strong>Programmer A </strong> plug it into PhonePeace as shown in the picture below with the <strong>Black Component Side facing up.</strong> If your PhonePeace came with <strong> Programmer B plug the programmer in with the Black Component Side facing Down and YP-05 facing up </Strong>shown below.</li>
-  <li>Plug the black cable (or white cable with adapter) into one end of the programmer and plug the other end into your computer</li>
+  <li>The "Up Orientation" for each programmer is shown above. </li>
+  <li>Plug the black cable, or white cable with adapter, or the white cable into one end of the programmer and plug the other end into your computer</li>
   
- #### Plug PhonePeace Programmer A into PhonePeace ![](images"/PROGRAMMERPLUGIN.png) 
+ #### Plug programmer into PhonePeace using orientation shown above ![](images"/PROGRAMMERPLUGIN.png) 
   
- #### Plug PhonePeace Programmer B into PhonePeace ![](images"/PROGRAMMERBYPUP.png) 
+
   
 #### Step 5: Programming PhonePeace and Reading PhonePeace Memory
   <ul>
