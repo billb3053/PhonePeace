@@ -35,7 +35,7 @@
   <li>The "Up Orientation" for each programmer is shown above. </li>
   <li>Plug the black cable, or white cable with adapter, or the white cable into one end of the programmer and plug the other end into your computer</li>
   
- #### Plug programmer into PhonePeace using orientation shown above ![](images"/PROGRAMMERPLUGIN.png) 
+ #### Plug programmer into PhonePeace orientation shown above ![](images"/PROGRAMMERPLUGIN.png) 
   
 
   
