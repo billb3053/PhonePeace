@@ -26,7 +26,7 @@
 
 #### Step 4: Connect Programmer to PhonePeace
 <ul>
-  <li>PhonePeace can be shipped with two different types of programmers. It is important you identify which programmer your PhonePeace came with.</li>
+  <li>PhonePeace can be shipped with any of 3 different types of programmers. It is important you identify which programmer your PhonePeace came with.</li>
     
 #### Programmer A ![](images"/FTDIUPSMALL.png) Programmer B ![](images"/FTDIDOWNSMALL1.png) 
   #### Adapter ![](images"/ADAPTER1.png)
